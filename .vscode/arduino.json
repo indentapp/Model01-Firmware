@@ -1,5 +1,5 @@
 {
     "sketch": "Model01-Firmware.ino",
     "board": "keyboardio:avr:model01",
-    "port": "/dev/cu.usbmodemCDkbio01"
+    "port": "/dev/cu.usbmodemCkbio011"
 }
